@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  padding: 20px;
+}
+
+table {
+  width: 95vw;
+  height: 100vh;
+  border: 1px solid;
+  border-collapse: collapse;
+  text-align: justify;
+}
+
+td {
+  border: 1px solid;
+}
+footer {
+  text-align: center;
+}
