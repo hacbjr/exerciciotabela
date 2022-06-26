@@ -1,2 +1,2 @@
 # exerciciotabela
-GrowDev - Exercícios sobre tabela
+GrowDev - Exercícios sobre tabelas
